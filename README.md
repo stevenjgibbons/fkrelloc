@@ -60,4 +60,8 @@ and of the f-k scan providing the relative location estimate:
 
 ![Relative location estimate of event DPRK1 relative to event DPRK2 using the fkrelloc.py program and the test cross-correlation functions provided](DPRK2_DPRK1_demo_fk_1.0_3.0.png)  
 
+If you publish using this code, I kindly ask you to cite the following paper: 
+**Relative location of seismic events using broadband frequency-wavenumber analysis: Application to the North Korean Nuclear Test Site**  
+Steven J. Gibbons, *RAS Techniques and Instruments*, rzag023, https://doi.org/10.1093/rasti/rzag023
 
+![Screenshot from the above paper https://doi.org/10.1093/rasti/rzag023](FKRELLOC_Promo_Image_Screenshot.png)
